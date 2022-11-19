@@ -1,0 +1,3 @@
+These are some pandas exercises I pulled from the web.  
+I haven't looked at Pandas in a while and these were great for refreshing
+you skills.  Covers the basics of Pandas operations.
